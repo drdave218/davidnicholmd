@@ -1,39 +1,128 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Davidnicholmd",
+  "title": "David Nichol MD",
+  "tagline": "I am a board-certified psychiatrist and psychoanalyst in private practice in Boulder, Colorado.  I work with adults, couples, and adolescents. Explore integrative psychiatry and holistic mental healt…",
   "nav": [
     {
       "type": "page",
-      "page": "pg_atdevjfsq8",
+      "page": "pg_sawx488784",
       "label": "Home"
+    },
+    {
+      "type": "page",
+      "page": "pg_87bpy0hxc3",
+      "label": "About Me"
+    },
+    {
+      "type": "folder",
+      "label": "Treatment",
+      "items": [
+        {
+          "type": "page",
+          "page": "pg_s0sng123ne",
+          "label": "Options"
+        },
+        {
+          "type": "page",
+          "page": "pg_20w8z2fqrk",
+          "label": "EMDR"
+        },
+        {
+          "type": "page",
+          "page": "pg_pa7ccy7w7e",
+          "label": "Brainspotting"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "label": "Articles & Links",
+      "items": [
+        {
+          "type": "collection",
+          "collection": "blog",
+          "label": "Articles & Blog"
+        },
+        {
+          "type": "page",
+          "page": "pg_hjkbxvex10",
+          "label": "Health Information"
+        },
+        {
+          "type": "page",
+          "page": "pg_dh8yqsjw3d",
+          "label": "Mental Health Information"
+        },
+        {
+          "type": "page",
+          "page": "pg_x4hsv8znz5",
+          "label": "Links"
+        },
+        {
+          "type": "page",
+          "page": "pg_ex6xz1f256",
+          "label": "Studies"
+        },
+        {
+          "type": "page",
+          "page": "pg_j8q0fzqqnh",
+          "label": "Recommended Books"
+        }
+      ]
+    },
+    {
+      "type": "page",
+      "page": "pg_mc97kbbtv3",
+      "label": "Contact"
     }
   ],
   "header": {
     "variant": "classic-left",
     "sticky": false,
-    "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "transparentOnHero": true,
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_efb7m6tqy5",
+    "id": "sec_hsfa3kh77j",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
+      "colorTheme": "dark",
+      "background": {
+        "type": "color",
+        "color": "#1f1f1f"
       }
     },
     "blocks": [
       {
-        "id": "blk_k5rx564xf5",
+        "id": "blk_1bts1pn08m",
+        "type": "social-links",
+        "v": 1,
+        "fields": {
+          "source": "site",
+          "profiles": [
+            {
+              "network": "instagram",
+              "url": "https://instagram.com/juniperyoga"
+            },
+            {
+              "network": "youtube",
+              "url": "https://youtube.com/@juniperyoga"
+            },
+            {
+              "network": "email",
+              "url": "mailto:hello@juniperyoga.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "blk_t8cvqcwkeh",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,7 +134,35 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Davidnicholmd"
+                    "text": "David Nichol MD · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(303) 877-2270",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "tel:3038772270"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "DrDave218@gmail.com",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "mailto:DrDave218@gmail.com"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
@@ -53,7 +170,70 @@
           }
         }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "email",
+      "url": "mailto:drdave218@gmail.com"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — David Nichol MD",
+    "description": "I am a board-certified psychiatrist and psychoanalyst in private practice in Boulder, Colorado.  I work with adults, couples, and adolescents. Explore integrative psychiatry and holistic mental health care with Dr. David Nichol in Boulder, CO. Personalized trauma-informed treatments."
+  },
+  "locale": "en-US",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  },
+  "redirects": [
+    {
+      "from": "/blog/2021/6/26/treating-ptsd-a-review-of-evidence-based-psychotherapy-interventions",
+      "to": "/blog/treating-ptsd-a-review-of-evidence-based-psychotherapy-interventions/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2021/6/24/a-history-of-the-pharmacologic-treatment-of-bipolar-disorder",
+      "to": "/blog/a-history-of-the-pharmacologic-treatment-of-bipolar-disorder/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2021/6/24/tms-transcranial-magnetic-stimulation-for-depression",
+      "to": "/blog/tms-transcranial-magnetic-stimulation-for-depression/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2021/6/24/pharmacological-treatment-of-depression-international-review",
+      "to": "/blog/pharmacological-treatment-of-depression-international-review/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2021/6/24/treatment-of-anxiety",
+      "to": "/blog/treatment-of-anxiety/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2020/8/21/ketamine-assisted-psychotherapy",
+      "to": "/blog/ketamine-assisted-psychotherapy/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2020/8/21/sleep-tips",
+      "to": "/blog/sleep-tips/",
+      "status": 301
+    },
+    {
+      "from": "/blog/2020/8/21/a-poem",
+      "to": "/blog/a-poem/",
+      "status": 301
+    },
+    {
+      "from": "/home",
+      "to": "/",
+      "status": 301
+    }
+  ]
 }

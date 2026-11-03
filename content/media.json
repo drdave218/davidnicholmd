@@ -1,0 +1,152 @@
+{
+  "media/2026/11/img-0078-1-0qd4.jpg": {
+    "id": "med_0qd4c6d8dw",
+    "path": "media/2026/11/img-0078-1-0qd4.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 911990,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "IMG_0078 (1).jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/img-3161-dqe8.jpg": {
+    "id": "med_dqe8sdc6by",
+    "path": "media/2026/11/img-3161-dqe8.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 370019,
+    "width": 1199,
+    "height": 1600,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "IMG_3161.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/tumblr-mn8b8slrb61rkz363o1-1280-x11k.jpg": {
+    "id": "med_x11k09ck71",
+    "path": "media/2026/11/tumblr-mn8b8slrb61rkz363o1-1280-x11k.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 385217,
+    "width": 2272,
+    "height": 1704,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "tumblr_mn8b8sLRb61rkz363o1_1280.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/s-v13akmw2hcq0251-ehyz.jpg": {
+    "id": "med_ehyz0812c6",
+    "path": "media/2026/11/s-v13akmw2hcq0251-ehyz.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 714992,
+    "width": 2400,
+    "height": 1581,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "s_v13akmw2hcq0251.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/image-ydgn.jpg": {
+    "id": "med_ydgnd2s7n4",
+    "path": "media/2026/11/image-ydgn.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 132554,
+    "width": 1004,
+    "height": 1339,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "image.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/davidnicholheadshot-qyt9.jpg": {
+    "id": "med_qyt94zz6h4",
+    "path": "media/2026/11/davidnicholheadshot-qyt9.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 862899,
+    "width": 1125,
+    "height": 1500,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "DavidNicholHeadshot.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/img-41081-h765.jpg": {
+    "id": "med_h765h0vyn3",
+    "path": "media/2026/11/img-41081-h765.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 605145,
+    "width": 2048,
+    "height": 1536,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "IMG_41081.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/dsc03080-90rx.jpg": {
+    "id": "med_90rxrcznjq",
+    "path": "media/2026/11/dsc03080-90rx.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 1280684,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "DSC03080.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/fullsizerender-56pk.jpg": {
+    "id": "med_56pkdfne4s",
+    "path": "media/2026/11/fullsizerender-56pk.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 700711,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "FullSizeRender.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  },
+  "media/2026/11/dsc03071-4jnv.jpg": {
+    "id": "med_4jnvd1t6wg",
+    "path": "media/2026/11/dsc03071-4jnv.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 693390,
+    "width": 2400,
+    "height": 1800,
+    "alt": "",
+    "createdAt": "2026-11-03T01:57:04.146Z",
+    "originalName": "DSC03071.jpg",
+    "credit": {
+      "source": "Imported from Squarespace"
+    }
+  }
+}
